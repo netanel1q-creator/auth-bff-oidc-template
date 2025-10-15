@@ -1,0 +1,19 @@
+# Build output
+.svelte-kit
+build
+dist
+.output
+.vercel
+.netlify
+
+# Dependencies
+node_modules
+
+# Environment
+.env
+.env.*
+
+# Files
+*.config.js
+*.config.ts
+
