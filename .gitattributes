@@ -1,0 +1,29 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.js text eol=lf
+*.ts text eol=lf
+*.svelte text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Config files
+.env* text eol=lf
+*.config.js text eol=lf
+*.config.ts text eol=lf
+
+# Documents
+*.md text diff=markdown
+LICENSE text
+
+# Graphics
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
